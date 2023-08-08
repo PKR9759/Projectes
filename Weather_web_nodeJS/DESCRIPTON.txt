@@ -1,0 +1,6 @@
+this is simple and my first Node.js project
+->simple weather web app
+->showing your city temprature
+->with real time including date
+
+-->all credit goes to Thappa technical YT chanel
